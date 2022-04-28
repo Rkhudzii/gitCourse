@@ -1,1 +1,1 @@
-document.body.innerHTML = 'Test Text'
+document.body.innerHTML = 'Test'
